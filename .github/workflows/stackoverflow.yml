@@ -7,7 +7,6 @@ on:
 
 jobs:
   update:
-    name: Update with latest StackOverflow activity
     runs-on: ubuntu-latest
     
     steps:
