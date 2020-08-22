@@ -17,6 +17,17 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
 [<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][github]
 [<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  [![Flaxel's github stats](https://github-readme-stats.vercel.app/api?username=flaxel&include_all_commits=true)][github]
+</details>
+
 [stackoverflow]: https://stackoverflow.com/users/10951752/flaxel
 [gitlab]: https://gitlab.com/flaxel
 [github]: https://github.com/flaxel
