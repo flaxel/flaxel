@@ -14,7 +14,7 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][github]
+[<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
@@ -26,6 +26,13 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:zap: GitHub Stats</summary>
   
   [![Flaxel's github stats](https://github-readme-stats.vercel.app/api?username=flaxel&include_all_commits=true)][github]
+</details>
+
+<details>
+  <summary>:orange_book: StackOverflow Activity</summary>
+  
+  <!-- STACKOVERFLOW:START -->
+  <!-- STACKOVERFLOW:END -->
 </details>
 
 [stackoverflow]: https://stackoverflow.com/users/10951752/flaxel
