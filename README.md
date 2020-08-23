@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Good tutorial for Google Cloud Speech API/Speech recognition on Mac/Python?](https://stackoverflow.com/questions/63540945/good-tutorial-for-google-cloud-speech-api-speech-recognition-on-mac-python/63540977#63540977)
+- [Answer by flaxel for Shuffling answers in multiple choice quiz in Kotlin](https://stackoverflow.com/questions/63539512/shuffling-answers-in-multiple-choice-quiz-in-kotlin/63539918#63539918)
 - [Answer by flaxel for What is Sublime Text Folder in Volumes?](https://stackoverflow.com/questions/63536514/what-is-sublime-text-folder-in-volumes/63537322#63537322)
 - [Answer by flaxel for How to set a surge.sh email](https://stackoverflow.com/questions/63447074/how-to-set-a-surge-sh-email/63448155#63448155)
 - [Answer by flaxel for How to convert decimal to time format? kotlin Kotlin](https://stackoverflow.com/questions/63366063/how-to-convert-decimal-to-time-format-kotlin-kotlin/63366460#63366460)
-- [Answer by flaxel for How can I mount a remote server just like raspbian does it?](https://stackoverflow.com/questions/63340090/how-can-i-mount-a-remote-server-just-like-raspbian-does-it/63340528#63340528)
-- [Answer by flaxel for Why does Axon throw a ConcurrencyException from second request onwards?](https://stackoverflow.com/questions/63180387/why-does-axon-throw-a-concurrencyexception-from-second-request-onwards/63194469#63194469)
 <!-- STACKOVERFLOW:END -->
 </details>
 
