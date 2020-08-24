@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Gitlab CI - $CI_COMMIT_TAG is empty](https://stackoverflow.com/questions/63370019/gitlab-ci-ci-commit-tag-is-empty/63552168#63552168)
+- [Answer by flaxel for SlackBot OpenModal Error: "Missing Charset"](https://stackoverflow.com/questions/63550032/slackbot-openmodal-error-missing-charset/63550931#63550931)
+- [Answer by flaxel for Slack Bot OpenModal Error: missing_post_type](https://stackoverflow.com/questions/63549094/slack-bot-openmodal-error-missing-post-type/63549235#63549235)
 - [Answer by flaxel for Good tutorial for Google Cloud Speech API/Speech recognition on Mac/Python?](https://stackoverflow.com/questions/63540945/good-tutorial-for-google-cloud-speech-api-speech-recognition-on-mac-python/63540977#63540977)
 - [Answer by flaxel for Shuffling answers in multiple choice quiz in Kotlin](https://stackoverflow.com/questions/63539512/shuffling-answers-in-multiple-choice-quiz-in-kotlin/63539918#63539918)
-- [Answer by flaxel for What is Sublime Text Folder in Volumes?](https://stackoverflow.com/questions/63536514/what-is-sublime-text-folder-in-volumes/63537322#63537322)
-- [Answer by flaxel for How to set a surge.sh email](https://stackoverflow.com/questions/63447074/how-to-set-a-surge-sh-email/63448155#63448155)
-- [Answer by flaxel for How to convert decimal to time format? kotlin Kotlin](https://stackoverflow.com/questions/63366063/how-to-convert-decimal-to-time-format-kotlin-kotlin/63366460#63366460)
 <!-- STACKOVERFLOW:END -->
 </details>
 
