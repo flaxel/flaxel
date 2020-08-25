@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for (Spring jpa) how do I get an instance from delete method](https://stackoverflow.com/questions/63566977/spring-jpa-how-do-i-get-an-instance-from-delete-method/63568234#63568234)
+- [Answer by flaxel for Mac: Can installing Python wrong break other codes etc.?](https://stackoverflow.com/questions/63560660/mac-can-installing-python-wrong-break-other-codes-etc/63561010#63561010)
+- [Answer by flaxel for how to make apt-get run in windows in docker file?](https://stackoverflow.com/questions/63559344/how-to-make-apt-get-run-in-windows-in-docker-file/63559689#63559689)
 - [Answer by flaxel for Gitlab CI - $CI_COMMIT_TAG is empty](https://stackoverflow.com/questions/63370019/gitlab-ci-ci-commit-tag-is-empty/63552168#63552168)
 - [Answer by flaxel for SlackBot OpenModal Error: "Missing Charset"](https://stackoverflow.com/questions/63550032/slackbot-openmodal-error-missing-charset/63550931#63550931)
-- [Answer by flaxel for Slack Bot OpenModal Error: missing_post_type](https://stackoverflow.com/questions/63549094/slack-bot-openmodal-error-missing-post-type/63549235#63549235)
-- [Answer by flaxel for Good tutorial for Google Cloud Speech API/Speech recognition on Mac/Python?](https://stackoverflow.com/questions/63540945/good-tutorial-for-google-cloud-speech-api-speech-recognition-on-mac-python/63540977#63540977)
-- [Answer by flaxel for Shuffling answers in multiple choice quiz in Kotlin](https://stackoverflow.com/questions/63539512/shuffling-answers-in-multiple-choice-quiz-in-kotlin/63539918#63539918)
 <!-- STACKOVERFLOW:END -->
 </details>
 
