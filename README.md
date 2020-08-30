@@ -32,7 +32,7 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for What is bean in spring boot](https://stackoverflow.com/questions/63637795/what-is-bean-in-spring-boot/63637853#63637853)
+- [Answer by flaxel for Python discord bot closes/crashes immediately after opening](https://stackoverflow.com/questions/63649803/python-discord-bot-closes-crashes-immediately-after-opening/63651309#63651309)
 - [Answer by flaxel for Last 3 non zero digits from factorial](https://stackoverflow.com/questions/63635716/last-3-non-zero-digits-from-factorial/63635807#63635807)
 - [Answer by flaxel for Sum of all XOR operations is maximum](https://stackoverflow.com/questions/63608458/sum-of-all-xor-operations-is-maximum/63622433#63622433)
 - [Answer by flaxel for How to fix "Not inside a Git work tree" with SonarQube?](https://stackoverflow.com/questions/63613604/how-to-fix-not-inside-a-git-work-tree-with-sonarqube/63621041#63621041)
