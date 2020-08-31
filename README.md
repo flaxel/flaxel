@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Conditional environment variable with interpolation in jenkins declarative pipeline](https://stackoverflow.com/questions/63662012/conditional-environment-variable-with-interpolation-in-jenkins-declarative-pipel/63662329#63662329)
+- [Answer by flaxel for How to serialise an object as a string in Serilog?](https://stackoverflow.com/questions/63379034/how-to-serialise-an-object-as-a-string-in-serilog/63659800#63659800)
 - [Answer by flaxel for Python discord bot closes/crashes immediately after opening](https://stackoverflow.com/questions/63649803/python-discord-bot-closes-crashes-immediately-after-opening/63651309#63651309)
 - [Answer by flaxel for Last 3 non zero digits from factorial](https://stackoverflow.com/questions/63635716/last-3-non-zero-digits-from-factorial/63635807#63635807)
 - [Answer by flaxel for Sum of all XOR operations is maximum](https://stackoverflow.com/questions/63608458/sum-of-all-xor-operations-is-maximum/63622433#63622433)
-- [Answer by flaxel for How to fix "Not inside a Git work tree" with SonarQube?](https://stackoverflow.com/questions/63613604/how-to-fix-not-inside-a-git-work-tree-with-sonarqube/63621041#63621041)
-- [Answer by flaxel for GitHub Action Get Commit Message](https://stackoverflow.com/questions/63619329/github-action-get-commit-message/63619539#63619539)
 <!-- STACKOVERFLOW:END -->
 </details>
 
