@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for Conditional environment variable with interpolation in jenkins declarative pipeline](https://stackoverflow.com/questions/63662012/conditional-environment-variable-with-interpolation-in-jenkins-declarative-pipel/63662329#63662329)
-- [Answer by flaxel for How to serialise an object as a string in Serilog?](https://stackoverflow.com/questions/63379034/how-to-serialise-an-object-as-a-string-in-serilog/63659800#63659800)
-- [Answer by flaxel for Python discord bot closes/crashes immediately after opening](https://stackoverflow.com/questions/63649803/python-discord-bot-closes-crashes-immediately-after-opening/63651309#63651309)
-- [Answer by flaxel for Last 3 non zero digits from factorial](https://stackoverflow.com/questions/63635716/last-3-non-zero-digits-from-factorial/63635807#63635807)
-- [Answer by flaxel for Sum of all XOR operations is maximum](https://stackoverflow.com/questions/63608458/sum-of-all-xor-operations-is-maximum/63622433#63622433)
+- [Answer by flaxel for Build the project using gradle](https://stackoverflow.com/questions/63677362/build-the-project-using-gradle/63677590#63677590)
+- [Answer by flaxel for Swagger send and receive array](https://stackoverflow.com/questions/63676310/swagger-send-and-receive-array/63676502#63676502)
+- [Answer by flaxel for Getting Code Directory Hash for the application macOS](https://stackoverflow.com/questions/63675717/getting-code-directory-hash-for-the-application-macos/63676342#63676342)
+- [Answer by flaxel for How to generate swagger-ui from several yaml specifications?](https://stackoverflow.com/questions/63675072/how-to-generate-swagger-ui-from-several-yaml-specifications/63675290#63675290)
+- [Answer by flaxel for What is the architecture of the model used in Tesseract-ocr 4.1.1 and version 5 alpha?](https://stackoverflow.com/questions/63673518/what-is-the-architecture-of-the-model-used-in-tesseract-ocr-4-1-1-and-version-5/63674158#63674158)
 <!-- STACKOVERFLOW:END -->
 </details>
 
