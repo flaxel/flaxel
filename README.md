@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for ERD Diagram relationship](https://stackoverflow.com/questions/63875563/erd-diagram-relationship/63875730#63875730)
-- [Answer by flaxel for Binding method to the button - thymeleaf](https://stackoverflow.com/questions/63874636/binding-method-to-the-button-thymeleaf/63874917#63874917)
-- [Answer by flaxel for SpringBoot - Can't resolve @RunWith - cannot find symbol](https://stackoverflow.com/questions/63834940/springboot-cant-resolve-runwith-cannot-find-symbol/63835256#63835256)
-- [Answer by flaxel for Install pyomo on raspberry pi](https://stackoverflow.com/questions/63800537/install-pyomo-on-raspberry-pi/63800856#63800856)
-- [Answer by flaxel for Spring Data JPA - java.sql.Timestamp is getting null for rest of the list or set of entity](https://stackoverflow.com/questions/63799382/spring-data-jpa-java-sql-timestamp-is-getting-null-for-rest-of-the-list-or-set/63800543#63800543)
+- [Answer by flaxel for Creating bussiness role Many to many relationship](https://stackoverflow.com/questions/63890605/creating-bussiness-role-many-to-many-relationship/63890652#63890652)
+- [Answer by flaxel for Hi, Please help me out in Lombok](https://stackoverflow.com/questions/63890327/hi-please-help-me-out-in-lombok/63890481#63890481)
+- [Answer by flaxel for Displaying a math problem consisting of two integers and a random operator](https://stackoverflow.com/questions/63889502/displaying-a-math-problem-consisting-of-two-integers-and-a-random-operator/63889923#63889923)
+- [Answer by flaxel for when I try to export my project as runnabl jar file I see this error](https://stackoverflow.com/questions/63887921/when-i-try-to-export-my-project-as-runnabl-jar-file-i-see-this-error/63888850#63888850)
+- [Answer by flaxel for Password Protected Excel/PDF](https://stackoverflow.com/questions/63878701/password-protected-excel-pdf/63882904#63882904)
 <!-- STACKOVERFLOW:END -->
 </details>
 
