@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for GitHub windows 10 is not ignoring files](https://stackoverflow.com/questions/63938910/github-windows-10-is-not-ignoring-files/63939117#63939117)
 - [Answer by flaxel for Creating bussiness role Many to many relationship](https://stackoverflow.com/questions/63890605/creating-bussiness-role-many-to-many-relationship/63890652#63890652)
 - [Answer by flaxel for Displaying a math problem consisting of two integers and a random operator](https://stackoverflow.com/questions/63889502/displaying-a-math-problem-consisting-of-two-integers-and-a-random-operator/63889923#63889923)
 - [Answer by flaxel for When I try to export my project as runnable jar file I see this error](https://stackoverflow.com/questions/63887921/when-i-try-to-export-my-project-as-runnable-jar-file-i-see-this-error/63888850#63888850)
 - [Answer by flaxel for Password Protected Excel/PDF](https://stackoverflow.com/questions/63878701/password-protected-excel-pdf/63882904#63882904)
-- [Answer by flaxel for How to run Jasmine tests in headless mode?](https://stackoverflow.com/questions/63882370/how-to-run-jasmine-tests-in-headless-mode/63882683#63882683)
 <!-- STACKOVERFLOW:END -->
 </details>
 
