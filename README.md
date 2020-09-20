@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Unable to correcty call a void function in Java to output to the console](https://stackoverflow.com/questions/63973122/unable-to-correcty-call-a-void-function-in-java-to-output-to-the-console/63973237#63973237)
+- [Answer by flaxel for Make shorter filtering of a df with boolean output](https://stackoverflow.com/questions/63966970/make-shorter-filtering-of-a-df-with-boolean-output/63967797#63967797)
 - [Answer by flaxel for Is it possible to disable the extremely annoying light bulb in Pycharm 2020.2?](https://stackoverflow.com/questions/63961963/is-it-possible-to-disable-the-extremely-annoying-light-bulb-in-pycharm-2020-2/63962101#63962101)
 - [Answer by flaxel for how does docker use apt-get in mac?](https://stackoverflow.com/questions/63959789/how-does-docker-use-apt-get-in-mac/63961621#63961621)
 - [Answer by flaxel for What is the best way to move Windows files to Ubuntu 20?](https://stackoverflow.com/questions/63953686/what-is-the-best-way-to-move-windows-files-to-ubuntu-20/63958868#63958868)
-- [Answer by flaxel for GitHub windows 10 is not ignoring files](https://stackoverflow.com/questions/63938910/github-windows-10-is-not-ignoring-files/63939117#63939117)
-- [Answer by flaxel for Creating bussiness role Many to many relationship](https://stackoverflow.com/questions/63890605/creating-bussiness-role-many-to-many-relationship/63890652#63890652)
 <!-- STACKOVERFLOW:END -->
 </details>
 
