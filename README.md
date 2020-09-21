@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for Unable to correcty call a void function in Java to output to the console](https://stackoverflow.com/questions/63973122/unable-to-correcty-call-a-void-function-in-java-to-output-to-the-console/63973237#63973237)
-- [Answer by flaxel for Make shorter filtering of a df with boolean output](https://stackoverflow.com/questions/63966970/make-shorter-filtering-of-a-df-with-boolean-output/63967797#63967797)
-- [Answer by flaxel for Is it possible to disable the extremely annoying light bulb in Pycharm 2020.2?](https://stackoverflow.com/questions/63961963/is-it-possible-to-disable-the-extremely-annoying-light-bulb-in-pycharm-2020-2/63962101#63962101)
-- [Answer by flaxel for how does docker use apt-get in mac?](https://stackoverflow.com/questions/63959789/how-does-docker-use-apt-get-in-mac/63961621#63961621)
-- [Answer by flaxel for What is the best way to move Windows files to Ubuntu 20?](https://stackoverflow.com/questions/63953686/what-is-the-best-way-to-move-windows-files-to-ubuntu-20/63958868#63958868)
+- [Answer by flaxel for How can I check, the number that scanner received is an integer certainly in java?](https://stackoverflow.com/questions/63983210/how-can-i-check-the-number-that-scanner-received-is-an-integer-certainly-in-jav/63983413#63983413)
+- [Answer by flaxel for how to push all the commit in git](https://stackoverflow.com/questions/63980185/how-to-push-all-the-commit-in-git/63982857#63982857)
+- [Answer by flaxel for What collection do I need to store an Object and it's quantity?](https://stackoverflow.com/questions/63981722/what-collection-do-i-need-to-store-an-object-and-its-quantity/63981796#63981796)
+- [Answer by flaxel for Is my example a description for ADTs? (java)](https://stackoverflow.com/questions/63979234/is-my-example-a-description-for-adts-java/63979391#63979391)
+- [Answer by flaxel for How can I create a new git branch from the base of the commit tree , which has no commit in common with master branch ? for gh-pages](https://stackoverflow.com/questions/63978699/how-can-i-create-a-new-git-branch-from-the-base-of-the-commit-tree-which-has-n/63978716#63978716)
 <!-- STACKOVERFLOW:END -->
 </details>
 
