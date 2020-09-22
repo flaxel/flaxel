@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for How can I check, the number that scanner received is an integer certainly in java?](https://stackoverflow.com/questions/63983210/how-can-i-check-the-number-that-scanner-received-is-an-integer-certainly-in-jav/63983413#63983413)
-- [Answer by flaxel for how to push all the commit in git](https://stackoverflow.com/questions/63980185/how-to-push-all-the-commit-in-git/63982857#63982857)
-- [Answer by flaxel for What collection do I need to store an Object and it's quantity?](https://stackoverflow.com/questions/63981722/what-collection-do-i-need-to-store-an-object-and-its-quantity/63981796#63981796)
-- [Answer by flaxel for Is my example a description for ADTs? (java)](https://stackoverflow.com/questions/63979234/is-my-example-a-description-for-adts-java/63979391#63979391)
-- [Answer by flaxel for How can I create a new git branch from the base of the commit tree , which has no commit in common with master branch ? for gh-pages](https://stackoverflow.com/questions/63978699/how-can-i-create-a-new-git-branch-from-the-base-of-the-commit-tree-which-has-n/63978716#63978716)
+- [Answer by flaxel for Cannot push updated file to remote git repository](https://stackoverflow.com/questions/63999516/cannot-push-updated-file-to-remote-git-repository/64000006#64000006)
+- [Answer by flaxel for PrintWriter constructors](https://stackoverflow.com/questions/63999111/printwriter-constructors/63999334#63999334)
+- [Answer by flaxel for Java Command Line Arguments Print](https://stackoverflow.com/questions/63998935/java-command-line-arguments-print/63999149#63999149)
+- [Answer by flaxel for Java Stream: How to avoid add null value in Collectors.toList()?](https://stackoverflow.com/questions/63991118/java-stream-how-to-avoid-add-null-value-in-collectors-tolist/63991234#63991234)
+- [Answer by flaxel for Reading stdin results in an infinite loop in Intellj](https://stackoverflow.com/questions/63990746/reading-stdin-results-in-an-infinite-loop-in-intellj/63991121#63991121)
 <!-- STACKOVERFLOW:END -->
 </details>
 
