@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Run go command as a gradle task](https://stackoverflow.com/questions/64066589/run-go-command-as-a-gradle-task/64070274#64070274)
+- [Answer by flaxel for Which of the following describes the return type and parameters of the Scanner method nextLine?](https://stackoverflow.com/questions/64069453/which-of-the-following-describes-the-return-type-and-parameters-of-the-scanner-m/64069516#64069516)
+- [Answer by flaxel for Is the Kotlin "if" keyword actually a function?](https://stackoverflow.com/questions/64066638/is-the-kotlin-if-keyword-actually-a-function/64067181#64067181)
 - [Answer by flaxel for License to use Spring tools 4](https://stackoverflow.com/questions/64050738/license-to-use-spring-tools-4/64055010#64055010)
 - [Answer by flaxel for HSQLDB Properties in Java](https://stackoverflow.com/questions/64049441/hsqldb-properties-in-java/64050074#64050074)
-- [Answer by flaxel for GitHub project to Gitlab](https://stackoverflow.com/questions/64045351/github-project-to-gitlab/64046737#64046737)
-- [Answer by flaxel for What does --oneline in git diff?](https://stackoverflow.com/questions/64045040/what-does-oneline-in-git-diff/64046456#64046456)
-- [Answer by flaxel for Fluent try-catch block](https://stackoverflow.com/questions/64016422/fluent-try-catch-block/64016834#64016834)
 <!-- STACKOVERFLOW:END -->
 </details>
 
