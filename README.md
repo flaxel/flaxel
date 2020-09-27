@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for Run go command as a gradle task](https://stackoverflow.com/questions/64066589/run-go-command-as-a-gradle-task/64070274#64070274)
-- [Answer by flaxel for Which of the following describes the return type and parameters of the Scanner method nextLine?](https://stackoverflow.com/questions/64069453/which-of-the-following-describes-the-return-type-and-parameters-of-the-scanner-m/64069516#64069516)
-- [Answer by flaxel for Is the Kotlin "if" keyword actually a function?](https://stackoverflow.com/questions/64066638/is-the-kotlin-if-keyword-actually-a-function/64067181#64067181)
-- [Answer by flaxel for License to use Spring tools 4](https://stackoverflow.com/questions/64050738/license-to-use-spring-tools-4/64055010#64055010)
-- [Answer by flaxel for HSQLDB Properties in Java](https://stackoverflow.com/questions/64049441/hsqldb-properties-in-java/64050074#64050074)
+- [Answer by flaxel for Print rectangle exercise - logic explanation](https://stackoverflow.com/questions/64082194/print-rectangle-exercise-logic-explanation/64082254#64082254)
+- [Answer by flaxel for Is there any free dataset available for https://docs.oracle.com/en/?](https://stackoverflow.com/questions/64081880/is-there-any-free-dataset-available-for-https-docs-oracle-com-en/64081987#64081987)
+- [Answer by flaxel for How to use a launch configuration as a template in eclipse](https://stackoverflow.com/questions/64079509/how-to-use-a-launch-configuration-as-a-template-in-eclipse/64079710#64079710)
+- [Answer by flaxel for Specific regex in Kotlin](https://stackoverflow.com/questions/64079283/specific-regex-in-kotlin/64079399#64079399)
+- [Answer by flaxel for Why setProgress method for JProgressbar is not accepting value over 100?](https://stackoverflow.com/questions/64078432/why-setprogress-method-for-jprogressbar-is-not-accepting-value-over-100/64078502#64078502)
 <!-- STACKOVERFLOW:END -->
 </details>
 
