@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for How to split the integers in the array list?](https://stackoverflow.com/questions/64105770/how-to-split-the-integers-in-the-array-list/64105960#64105960)
+- [Answer by flaxel for Does anyone know why my Git commits have the double icon associated with them?](https://stackoverflow.com/questions/64105398/does-anyone-know-why-my-git-commits-have-the-double-icon-associated-with-them/64105777#64105777)
 - [Answer by flaxel for Why can I use interface as anonymous class?](https://stackoverflow.com/questions/64091449/why-can-i-use-interface-as-anonymous-class/64091603#64091603)
 - [Answer by flaxel for How to copy multiple files atomically from src to dest in java?](https://stackoverflow.com/questions/63835385/how-to-copy-multiple-files-atomically-from-src-to-dest-in-java/64091163#64091163)
 - [Answer by flaxel for Records requires ASM8](https://stackoverflow.com/questions/64087297/records-requires-asm8/64087916#64087916)
-- [Answer by flaxel for My textarea stacks at the corner whenever i use it in Java. Can I bring it to the center of the screen?](https://stackoverflow.com/questions/64087043/my-textarea-stacks-at-the-corner-whenever-i-use-it-in-java-can-i-bring-it-to-th/64087446#64087446)
-- [Answer by flaxel for Gatling Error Exception in thread "main" java.lang.NoClassDefFoundError: io/gatling/charts/component/impl/ComponentLibraryImpl](https://stackoverflow.com/questions/64086686/gatling-error-exception-in-thread-main-java-lang-noclassdeffounderror-io-gatl/64087213#64087213)
 <!-- STACKOVERFLOW:END -->
 </details>
 
