@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
-- [Answer by flaxel for How can I list only directory names, with no trailing "/"?](https://stackoverflow.com/questions/64145291/how-can-i-list-only-directory-names-with-no-trailing/64145793#64145793)
-- [Answer by flaxel for Linux one line command to read from a file line by line and pass it to a command](https://stackoverflow.com/questions/64125350/linux-one-line-command-to-read-from-a-file-line-by-line-and-pass-it-to-a-command/64125744#64125744)
-- [Answer by flaxel for How to split the integers in the array list?](https://stackoverflow.com/questions/64105770/how-to-split-the-integers-in-the-array-list/64105960#64105960)
-- [Answer by flaxel for Does anyone know why my Git commits have the double icon associated with them?](https://stackoverflow.com/questions/64105398/does-anyone-know-why-my-git-commits-have-the-double-icon-associated-with-them/64105777#64105777)
-- [Answer by flaxel for Why can I use interface as anonymous class?](https://stackoverflow.com/questions/64091449/why-can-i-use-interface-as-anonymous-class/64091603#64091603)
+- [Answer by flaxel for Filter and return value from a Map in Java 8](https://stackoverflow.com/questions/64163622/filter-and-return-value-from-a-map-in-java-8/64163724#64163724)
+- [Answer by flaxel for Can't create GitHub account](https://stackoverflow.com/questions/64162373/cant-create-github-account/64162645#64162645)
+- [Answer by flaxel for Read multiple path within one single txt file using JAVA](https://stackoverflow.com/questions/64160515/read-multiple-path-within-one-single-txt-file-using-java/64160776#64160776)
+- [Answer by flaxel for Load and compile an external .java file](https://stackoverflow.com/questions/64159570/load-and-compile-an-external-java-file/64160376#64160376)
+- [Answer by flaxel for Comparing things in Python using type cast](https://stackoverflow.com/questions/64156910/comparing-things-in-python-using-type-cast/64157274#64157274)
 <!-- STACKOVERFLOW:END -->
 </details>
 
