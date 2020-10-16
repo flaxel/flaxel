@@ -35,8 +35,8 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
 - [Answer by flaxel for Java: Only Print Unique Characters in a String](https://stackoverflow.com/questions/64197421/java-only-print-unique-characters-in-a-string/64199627#64199627)
 - [Answer by flaxel for Create a method that with 2 given arrays returns a new one with elements from a and b with no duplicates:](https://stackoverflow.com/questions/64197284/create-a-method-that-with-2-given-arrays-returns-a-new-one-with-elements-from-a/64197493#64197493)
 - [Answer by flaxel for How do I resolve this error using Paths.of?](https://stackoverflow.com/questions/64187979/how-do-i-resolve-this-error-using-paths-of/64188291#64188291)
-- [Answer by flaxel for How do i solve non-fast-forward error in git repository?](https://stackoverflow.com/questions/64183735/how-do-i-solve-non-fast-forward-error-in-git-repository/64183921#64183921)
 - [Answer by flaxel for How to use 'Select-String' to filter lines from an output](https://stackoverflow.com/questions/64183006/how-to-use-select-string-to-filter-lines-from-an-output/64183371#64183371)
+- [Answer by flaxel for How Can I Get "KNOX SDK"](https://stackoverflow.com/questions/64175265/how-can-i-get-knox-sdk/64178072#64178072)
 <!-- STACKOVERFLOW:END -->
 </details>
 
