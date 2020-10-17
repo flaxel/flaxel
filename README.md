@@ -36,7 +36,7 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
 - [Answer by flaxel for Create a method that with 2 given arrays returns a new one with elements from a and b with no duplicates:](https://stackoverflow.com/questions/64197284/create-a-method-that-with-2-given-arrays-returns-a-new-one-with-elements-from-a/64197493#64197493)
 - [Answer by flaxel for How do I resolve this error using Paths.of?](https://stackoverflow.com/questions/64187979/how-do-i-resolve-this-error-using-paths-of/64188291#64188291)
 - [Answer by flaxel for How to use 'Select-String' to filter lines from an output](https://stackoverflow.com/questions/64183006/how-to-use-select-string-to-filter-lines-from-an-output/64183371#64183371)
-- [Answer by flaxel for How Can I Get "KNOX SDK"](https://stackoverflow.com/questions/64175265/how-can-i-get-knox-sdk/64178072#64178072)
+- [Answer by flaxel for CodeQL does not work: "Fatal error compiling: invalid target release: 11"](https://stackoverflow.com/questions/64176555/codeql-does-not-work-fatal-error-compiling-invalid-target-release-11/64176556#64176556)
 <!-- STACKOVERFLOW:END -->
 </details>
 
