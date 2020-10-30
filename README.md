@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Java - How i can restart ServiceLoader](https://stackoverflow.com/questions/64598852/java-how-i-can-restart-serviceloader/64598974#64598974)
 - [Answer by flaxel for calculating percentage of data in one standard deviation in Java?](https://stackoverflow.com/questions/64517517/calculating-percentage-of-data-in-one-standard-deviation-in-java/64517613#64517613)
 - [Answer by flaxel for GitLab- List of reviewer](https://stackoverflow.com/questions/64489152/gitlab-list-of-reviewer/64489396#64489396)
 - [Answer by flaxel for How to check what lfs files are going to be uploaded?](https://stackoverflow.com/questions/64414910/how-to-check-what-lfs-files-are-going-to-be-uploaded/64415006#64415006)
 - [Answer by flaxel for Java: Only Print Unique Characters in a String](https://stackoverflow.com/questions/64197421/java-only-print-unique-characters-in-a-string/64199627#64199627)
-- [Answer by flaxel for Create a method that with 2 given arrays returns a new one with elements from a and b with no duplicates:](https://stackoverflow.com/questions/64197284/create-a-method-that-with-2-given-arrays-returns-a-new-one-with-elements-from-a/64197493#64197493)
 <!-- STACKOVERFLOW:END -->
 </details>
 
