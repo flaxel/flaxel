@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Hadoop installing fails](https://stackoverflow.com/questions/64948405/hadoop-installing-fails/64948830#64948830)
+- [Answer by flaxel for FindBugs - Boxed value is unboxed and then immediately reboxed](https://stackoverflow.com/questions/64941364/findbugs-boxed-value-is-unboxed-and-then-immediately-reboxed/64941764#64941764)
 - [Answer by flaxel for Format date in contact form Wordpress](https://stackoverflow.com/questions/64792731/format-date-in-contact-form-wordpress/64793078#64793078)
 - [Answer by flaxel for While creating my first Docker image from an online tutorial , I get this error](https://stackoverflow.com/questions/64785211/while-creating-my-first-docker-image-from-an-online-tutorial-i-get-this-error/64785283#64785283)
 - [Answer by flaxel for Extracting digit values from before and after decimal points in Java](https://stackoverflow.com/questions/64722070/extracting-digit-values-from-before-and-after-decimal-points-in-java/64722134#64722134)
-- [Answer by flaxel for Unable to install command line developer tools for "git"](https://stackoverflow.com/questions/64718861/unable-to-install-command-line-developer-tools-for-git/64721715#64721715)
-- [Answer by flaxel for Java - How i can restart ServiceLoader](https://stackoverflow.com/questions/64598852/java-how-i-can-restart-serviceloader/64598974#64598974)
 <!-- STACKOVERFLOW:END -->
 </details>
 
