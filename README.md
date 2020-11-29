@@ -34,9 +34,9 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <!-- STACKOVERFLOW:START -->
 - [Answer by flaxel for gitignore all files except the .json files in all subdirectories of a particular directory](https://stackoverflow.com/questions/65029549/gitignore-all-files-except-the-json-files-in-all-subdirectories-of-a-particular/65029904#65029904)
 - [Answer by flaxel for Hadoop installing fails](https://stackoverflow.com/questions/64948405/hadoop-installing-fails/64948830#64948830)
-- [Answer by flaxel for FindBugs - Boxed value is unboxed and then immediately reboxed](https://stackoverflow.com/questions/64941364/findbugs-boxed-value-is-unboxed-and-then-immediately-reboxed/64941764#64941764)
 - [Answer by flaxel for Format date in contact form Wordpress](https://stackoverflow.com/questions/64792731/format-date-in-contact-form-wordpress/64793078#64793078)
 - [Answer by flaxel for While creating my first Docker image from an online tutorial , I get this error](https://stackoverflow.com/questions/64785211/while-creating-my-first-docker-image-from-an-online-tutorial-i-get-this-error/64785283#64785283)
+- [Answer by flaxel for Extracting digit values from before and after decimal points in Java](https://stackoverflow.com/questions/64722070/extracting-digit-values-from-before-and-after-decimal-points-in-java/64722134#64722134)
 <!-- STACKOVERFLOW:END -->
 </details>
 
