@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for How do I add these images that provide information about a repository or package in a github repo?](https://stackoverflow.com/questions/64905302/how-do-i-add-these-images-that-provide-information-about-a-repository-or-package/65158145#65158145)
 - [Answer by flaxel for gitignore all files except the .json files in all subdirectories of a particular directory](https://stackoverflow.com/questions/65029549/gitignore-all-files-except-the-json-files-in-all-subdirectories-of-a-particular/65029904#65029904)
 - [Answer by flaxel for Hadoop installing fails](https://stackoverflow.com/questions/64948405/hadoop-installing-fails/64948830#64948830)
 - [Answer by flaxel for Format date in contact form Wordpress](https://stackoverflow.com/questions/64792731/format-date-in-contact-form-wordpress/64793078#64793078)
 - [Answer by flaxel for While creating my first Docker image from an online tutorial , I get this error](https://stackoverflow.com/questions/64785211/while-creating-my-first-docker-image-from-an-online-tutorial-i-get-this-error/64785283#64785283)
-- [Answer by flaxel for Extracting digit values from before and after decimal points in Java](https://stackoverflow.com/questions/64722070/extracting-digit-values-from-before-and-after-decimal-points-in-java/64722134#64722134)
 <!-- STACKOVERFLOW:END -->
 </details>
 
