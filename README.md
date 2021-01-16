@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Return the user input in another method from another class in Java](https://stackoverflow.com/questions/65733512/return-the-user-input-in-another-method-from-another-class-in-java/65733889#65733889)
+- [Answer by flaxel for Remove files from origin after mv instead of git mv](https://stackoverflow.com/questions/65733297/remove-files-from-origin-after-mv-instead-of-git-mv/65733356#65733356)
+- [Answer by flaxel for Create Pull Request from another Pull Request](https://stackoverflow.com/questions/65732360/create-pull-request-from-another-pull-request/65732842#65732842)
 - [Answer by flaxel for Git comparing two files](https://stackoverflow.com/questions/65625281/git-comparing-two-files/65626314#65626314)
 - [Answer by flaxel for Mono.fromCallable vs Mono.fromSupplier](https://stackoverflow.com/questions/65186813/mono-fromcallable-vs-mono-fromsupplier/65187612#65187612)
-- [Answer by flaxel for How do I add these images that provide information about a repository or package in a github repo?](https://stackoverflow.com/questions/64905302/how-do-i-add-these-images-that-provide-information-about-a-repository-or-package/65158145#65158145)
-- [Answer by flaxel for gitignore all files except the .json files in all subdirectories of a particular directory](https://stackoverflow.com/questions/65029549/gitignore-all-files-except-the-json-files-in-all-subdirectories-of-a-particular/65029904#65029904)
-- [Answer by flaxel for Hadoop installing fails](https://stackoverflow.com/questions/64948405/hadoop-installing-fails/64948830#64948830)
 <!-- STACKOVERFLOW:END -->
 </details>
 
