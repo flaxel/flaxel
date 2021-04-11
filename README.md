@@ -32,11 +32,11 @@ I'm Falk, a Working Student Engineer. Currently I'm working for a nice company a
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for Single quotation marks as arguments to a Java program](https://stackoverflow.com/questions/67033995/single-quotation-marks-as-arguments-to-a-java-program/67034077#67034077)
+- [Answer by flaxel for while push code into aws codeCommit getting this error --> repo : RPC failed; curl 56 LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 54](https://stackoverflow.com/questions/67033541/while-push-code-into-aws-codecommit-getting-this-error-repo-rpc-failed-cu/67033576#67033576)
+- [Answer by flaxel for How to calculate the distance between the current date and another date in java](https://stackoverflow.com/questions/67033095/how-to-calculate-the-distance-between-the-current-date-and-another-date-in-java/67033216#67033216)
 - [Answer by flaxel for Configure Gitlab to run tests on my own server](https://stackoverflow.com/questions/66974580/configure-gitlab-to-run-tests-on-my-own-server/66974699#66974699)
 - [Answer by flaxel for Running external Java Process with ProcessBuilder and give heap size](https://stackoverflow.com/questions/66959800/running-external-java-process-with-processbuilder-and-give-heap-size/66959836#66959836)
-- [Answer by flaxel for Loop on an object in Java](https://stackoverflow.com/questions/66940936/loop-on-an-object-in-java/66941197#66941197)
-- [Answer by flaxel for Github action run two process one after other](https://stackoverflow.com/questions/66916180/github-action-run-two-process-one-after-other/66939777#66939777)
-- [Answer by flaxel for How to mock the object returned from DB base on the parameter received?](https://stackoverflow.com/questions/66939284/how-to-mock-the-object-returned-from-db-base-on-the-parameter-received/66939406#66939406)
 <!-- STACKOVERFLOW:END -->
 </details>
 
