@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Falk, a Working Student Engineer. Currently I'm working for a nice company and do some little projects in my freetime. :computer: Beside's programming, I enjoy skiing :ski: and cycling :bicyclist:.
+I'm Falk, a Fullstack Engineer. Currently I'm working for a nice company and do some little projects in my freetime. :computer: Beside's programming, I enjoy skiing :ski: and cycling :bicyclist:.
 
 #### Talking about Personal Stuffs
 
