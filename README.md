@@ -32,11 +32,11 @@ I'm Falk, a Fullstack Engineer. Currently I'm working for a nice company and do 
   <summary>:orange_book: StackOverflow Activity</summary>
   
   <!-- STACKOVERFLOW:START -->
+- [Answer by flaxel for github &quot;Automatically delete head branches&quot; for multiple repositories](https://stackoverflow.com/questions/72232700/github-automatically-delete-head-branches-for-multiple-repositories/72233834#72233834)
 - [Answer by flaxel for Make Github actions job wait for CircleCI workflow](https://stackoverflow.com/questions/71741116/make-github-actions-job-wait-for-circleci-workflow/71741274#71741274)
 - [Answer by flaxel for Restrict Github Org Forking](https://stackoverflow.com/questions/67694756/restrict-github-org-forking/67695358#67695358)
 - [Answer by flaxel for Is dependabot.yml mandatory for GitHub Dependabot?](https://stackoverflow.com/questions/66659442/is-dependabot-yml-mandatory-for-github-dependabot/67082232#67082232)
 - [Answer by flaxel for Is it possible to select a specific branch against which Dependabot should open PR&#39;s?](https://stackoverflow.com/questions/67081824/is-it-possible-to-select-a-specific-branch-against-which-dependabot-should-open/67082008#67082008)
-- [Answer by flaxel for Gradle Ktlint plugin fails on Java 16](https://stackoverflow.com/questions/66806195/gradle-ktlint-plugin-fails-on-java-16/67050118#67050118)
 <!-- STACKOVERFLOW:END -->
 </details>
 
