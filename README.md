@@ -36,7 +36,7 @@ I'm Falk, a Fullstack Engineer. Currently I'm working for a nice company and do 
 - [Answer by flaxel for General timeout for GitHub Actions jobs](https://stackoverflow.com/questions/72900262/general-timeout-for-github-actions-jobs/72928898#72928898)
 - [Answer by flaxel for github &quot;Automatically delete head branches&quot; for multiple repositories](https://stackoverflow.com/questions/72232700/github-automatically-delete-head-branches-for-multiple-repositories/72233834#72233834)
 - [Answer by flaxel for Make Github actions job wait for CircleCI workflow](https://stackoverflow.com/questions/71741116/make-github-actions-job-wait-for-circleci-workflow/71741274#71741274)
-- [Answer by flaxel for Restrict Github Org Forking](https://stackoverflow.com/questions/67694756/restrict-github-org-forking/67695358#67695358)
+- [Answer by flaxel for Restrict GitHub organization forking](https://stackoverflow.com/questions/67694756/restrict-github-organization-forking/67695358#67695358)
 <!-- STACKOVERFLOW:END -->
 </details>
 
