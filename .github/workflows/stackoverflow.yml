@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - uses: gautamkrishnar/blog-post-workflow@1.8.7
+      - uses: gautamkrishnar/blog-post-workflow@1.9.0
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest StackOverflow data"
